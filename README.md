@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Database](https://img.shields.io/badge/Database-SQLite%20%2F%20SQL-green?style=for-the-badge&logo=sqlite)
+![Status](https://img.shields.io/badge/Status-Completed%20PoC-orange?style=for-the-badge)
 # ERP Procure-to-Pay (P2P) Workflow & Audit Engine
 
 ## Proje Kapsamı ve Kurumsal Mimari
