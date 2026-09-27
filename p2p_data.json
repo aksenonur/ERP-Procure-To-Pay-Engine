@@ -1,0 +1,35 @@
+[
+  {
+    "po_number": "PO-2026-001",
+    "item_code": "PRD-101",
+    "description": "Hydraulic Valve",
+    "ordered_qty": 50,
+    "unit_price": 150.00,
+    "received_qty": 50,
+    "invoiced_qty": 50,
+    "invoiced_price": 150.00,
+    "approval_level_required": "MANAGER"
+  },
+  {
+    "po_number": "PO-2026-002",
+    "item_code": "PRD-102",
+    "description": "Control Sensor",
+    "ordered_qty": 100,
+    "unit_price": 240.00,
+    "received_qty": 100,
+    "invoiced_qty": 100,
+    "invoiced_price": 290.00,
+    "approval_level_required": "DIRECTOR"
+  },
+  {
+    "po_number": "PO-2026-003",
+    "item_code": "PRD-103",
+    "description": "Turbine Blade Assembly",
+    "ordered_qty": 10,
+    "unit_price": 8500.00,
+    "received_qty": 8,
+    "invoiced_qty": 10,
+    "invoiced_price": 8500.00,
+    "approval_level_required": "CFO"
+  }
+]
